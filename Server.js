@@ -6,9 +6,7 @@ const dotenv = require('dotenv')
 const jsonwebtoken = require('jsonwebtoken');
 const path = require('path')
 // creating a mongodb connection  of data base
-const connectDatabase = require('./config/connectDatabase')
-//mongoose.connect('mongodb+srv://yogomanojbro:QNo0Hp6fbAV9O8jp@mystore.xhray.mongodb.net/').then(()=>console.log("mongodb id connect ")).catch((error)=>console.log(error))
-
+const connectDatabase = require('./config/connectDatabase');
 dotenv.config({path: path.join(__dirname,'config','config.env')})
 
 
