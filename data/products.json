@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "price": "59.99",
+        "descrption": "Noise-cancelling over-ear headphones with deep bass and 30-hour battery life.",
+        "ratings": "4.5",
+        "image": [
+            {
+                "image": "https://example.com/images/headphones1.jpg"
+            },
+            {
+                "image": "https://example.com/images/headphones2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "SoundWave",
+        "stock": "120",
+        "numofReviwes": "280"
+    },
+    {
+        "name": "Smartphone Tripod Stand",
+        "price": "24.99",
+        "descrption": "Flexible smartphone tripod with Bluetooth remote control.",
+        "ratings": "4.4",
+        "image": [
+            {
+                "image": "https://example.com/images/tripod1.jpg"
+            },
+            {
+                "image": "https://example.com/images/tripod2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "SnapShot",
+        "stock": "300",
+        "numofReviwes": "110"
+    },
+    {
+        "name": "Smart LED Light Strip",
+        "price": "34.99",
+        "descrption": "Color-changing LED light strip with app control and music sync.",
+        "ratings": "4.6",
+        "image": [
+            {
+                "image": "https://example.com/images/ledstrip1.jpg"
+            },
+            {
+                "image": "https://example.com/images/ledstrip2.jpg"
+            }
+        ],
+        "category": "Smart Home",
+        "seller": "BrightLife",
+        "stock": "400",
+        "numofReviwes": "95"
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "price": "79.99",
+        "descrption": "Waterproof Bluetooth speaker with 360-degree sound.",
+        "ratings": "4.7",
+        "image": [
+            {
+                "image": "https://example.com/images/speaker1.jpg"
+            },
+            {
+                "image": "https://example.com/images/speaker2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "SoundBlast",
+        "stock": "200",
+        "numofReviwes": "310"
+    },
+    {
+        "name": "Smart Fitness Tracker",
+        "price": "49.99",
+        "descrption": "Fitness tracker with heart rate monitor and sleep tracking.",
+        "ratings": "4.3",
+        "image": [
+            {
+                "image": "https://example.com/images/fitnesstracker1.jpg"
+            },
+            {
+                "image": "https://example.com/images/fitnesstracker2.jpg"
+            }
+        ],
+        "category": "Wearables",
+        "seller": "FitPro",
+        "stock": "150",
+        "numofReviwes": "140"
+    },
+    {
+        "name": "Gaming Keyboard",
+        "price": "69.99",
+        "descrption": "Mechanical gaming keyboard with RGB lighting and customizable keys.",
+        "ratings": "4.8",
+        "image": [
+            {
+                "image": "https://example.com/images/keyboard1.jpg"
+            },
+            {
+                "image": "https://example.com/images/keyboard2.jpg"
+            }
+        ],
+        "category": "Gaming",
+        "seller": "GameHub",
+        "stock": "90",
+        "numofReviwes": "230"
+    },
+    {
+        "name": "4K HD Action Camera",
+        "price": "119.99",
+        "descrption": "Waterproof action camera with 4K video recording and WiFi connectivity.",
+        "ratings": "4.5",
+        "image": [
+            {
+                "image": "https://example.com/images/camera1.jpg"
+            },
+            {
+                "image": "https://example.com/images/camera2.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "CaptureX",
+        "stock": "80",
+        "numofReviwes": "180"
+    },
+    {
+        "name": "Smart WiFi Plug",
+        "price": "19.99",
+        "descrption": "Smart plug with voice control and remote scheduling.",
+        "ratings": "4.4",
+        "image": [
+            {
+                "image": "https://example.com/images/smartplug1.jpg"
+            },
+            {
+                "image": "https://example.com/images/smartplug2.jpg"
+            }
+        ],
+        "category": "Smart Home",
+        "seller": "Smartify",
+        "stock": "250",
+        "numofReviwes": "90"
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "price": "29.99",
+        "descrption": "Fast wireless charger compatible with all Qi-enabled devices.",
+        "ratings": "4.6",
+        "image": [
+            {
+                "image": "https://example.com/images/chargingpad1.jpg"
+            },
+            {
+                "image": "https://example.com/images/chargingpad2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "PowerUp",
+        "stock": "220",
+        "numofReviwes": "145"
+    },
+    {
+        "name": "Laptop Stand",
+        "price": "39.99",
+        "descrption": "Adjustable aluminum laptop stand for better posture and cooling.",
+        "ratings": "4.7",
+        "image": [
+            {
+                "image": "https://example.com/images/laptopstand1.jpg"
+            },
+            {
+                "image": "https://example.com/images/laptopstand2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "ErgoTech",
+        "stock": "180",
+        "numofReviwes": "170"
+    },
+    {
+        "name": "Digital Alarm Clock",
+        "price": "24.99",
+        "descrption": "LED display alarm clock with USB charging and night light.",
+        "ratings": "4.3",
+        "image": [
+            {
+                "image": "https://example.com/images/alarmclock1.jpg"
+            },
+            {
+                "image": "https://example.com/images/alarmclock2.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "TimeKeeper",
+        "stock": "300",
+        "numofReviwes": "80"
+    },
+    {
+        "name": "Noise Cancelling Earbuds",
+        "price": "99.99",
+        "descrption": "True wireless earbuds with active noise cancellation and long battery life.",
+        "ratings": "4.6",
+        "image": [
+            {
+                "image": "https://example.com/images/earbuds1.jpg"
+            },
+            {
+                "image": "https://example.com/images/earbuds2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "TunePro",
+        "stock": "110",
+        "numofReviwes": "210"
+    },
+    {
+        "name": "Smart Video Doorbell",
+        "price": "149.99",
+        "descrption": "Video doorbell with motion detection and two-way audio.",
+        "ratings": "4.7",
+        "image": [
+            {
+                "image": "https://example.com/images/doorbell1.jpg"
+            },
+            {
+                "image": "https://example.com/images/doorbell2.jpg"
+            }
+        ],
+        "category": "Smart Home",
+        "seller": "HomeGuard",
+        "stock": "75",
+        "numofReviwes": "130"
+    }
+]
